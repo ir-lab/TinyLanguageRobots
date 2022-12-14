@@ -3,6 +3,10 @@ A light-weighted, open-box 2D robot manipulation simulator.
 
 ![TinyLanguageRobots](images/drag_clock_backwards.gif) ![TinyLanguageRobots](images/push_strawberry_forward.gif)
 
+[An interactive demonstration here.](https://huggingface.co/spaces/yfzhoucs/TinyLanguageRobots)
+
+![huggingface](images/huggingface.png)
+
 This repo majorly includes 2 parts:
 1.  **A lighted-weighted simulator (class `TinyRobotEnv`)** powered by pygame and openai gym. This is 
 a 2D simulator, featuring the visual appearance of a UR5 robot. Inverse kinematics API is 
